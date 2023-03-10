@@ -9,7 +9,8 @@
 
 </p>
 
-<br>
+[<img align="left" alt="hasankaraman294 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/D83A7C" />][gmail]
+
 <br>
 
 ### GitHub Stats
