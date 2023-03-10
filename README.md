@@ -1,17 +1,8 @@
 # Hi, I'm Gurkan Karaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left">
-  <a href="mailto:hasankaraman294@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D83A7C" alt="hasankaraman294@gmail.com" height="30" width="40"></a>
-  
-<a href="https://www.instagram.com/gurkanhasankaraman" target="_blank"><img align="center" src="https://cdn.simpleicons.org/instagram/D83A7C" alt="gurkanhasankaraman" height="30" width="40" /></a>
-  
-<a href="https://www.linkedin.com/in/gurkan-hasan-karaman-96568b172" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/D83A7C" alt="gurkan-hasan-karaman-96568b172" height="30" width="40" /></a>
-
-</p>
-
-[<img align="left" alt="hasankaraman294 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/D83A7C" />][gmail]
-
-<br>
+[<img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hasankaraman294@gmail.com) 
+[<img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-E4405E?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gurkanhasankaraman)
+[<img alt="Instagram" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gurkan-hasan-karaman-96568b172)
 
 ### GitHub Stats
 
