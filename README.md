@@ -1,8 +1,13 @@
 # Hi, I'm Gurkan Karaman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="gurkan-hasan-karaman-96568b172 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/D83A7C" />][linkedin]
-[<img align="left" alt="gurkanhasankaraman | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/D83A7C" />][twitter]
-[<img align="left" alt="hasankaraman294 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/D83A7C" />][gmail]
+<p align="left">
+  <a href="mailto:hasankaraman294@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D83A7C" alt="hasankaraman294@gmail.com" height="30" width="40"></a>
+  
+<a href="https://www.instagram.com/gurkanhasankaraman" target="_blank"><img align="center" src="https://cdn.simpleicons.org/instagram/D83A7C" alt="gurkanhasankaraman" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/gurkan-hasan-karaman-96568b172" target="_blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/D83A7C" alt="gurkan-hasan-karaman-96568b172" height="30" width="40" /></a>
+
+</p>
 
 <br>
 <br>
