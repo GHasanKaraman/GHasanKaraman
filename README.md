@@ -9,4 +9,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHasanKaraman&hide_progress=true" alt="gkaraman" /></p>
 
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=GHasanKaraman&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=GHasanKaraman&show_icons=true&theme=radical)" alt="gkaraman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GHasanKaraman&show_icons=true&theme=radical" alt="gkaraman" /></p>
