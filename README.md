@@ -54,7 +54,7 @@
 
 #### Utilities:
 
-![Neo Vim](https://img.shields.io/badge/-Neovim%20Studio-3D9a2f?style=flat&logo=neovim&logoColor=white)
+![Neo Vim](https://img.shields.io/badge/-Neovim-3D9a2f?style=flat&logo=neovim&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
